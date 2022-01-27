@@ -1,5 +1,5 @@
 import {TailwindProvider} from 'tailwind-rn';
-import Home from './screens/Home';
+import Home from './src/screens/Home';
 import utilities from './tailwind.json';
 
 const App = () => (

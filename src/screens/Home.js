@@ -5,7 +5,7 @@ import { faSync, faSearch, faWalking, faCar, faPen } from '@fortawesome/free-sol
 import { useTailwind } from 'tailwind-rn';
 import InfoFull from '../components/Info/Full';
 import InfoEmpty from '../components/Info/Empty';
-import Config from '../config';
+import Config from '../../config';
 
 const axios = require('axios');
 
