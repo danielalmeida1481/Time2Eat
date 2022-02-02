@@ -136,9 +136,9 @@
   color: rgb(75 85 99 / var(--tw-text-opacity))
 }
 
-.text-red-800 {
+.text-yellow-500 {
   --tw-text-opacity: 1;
-  color: rgb(153 27 27 / var(--tw-text-opacity))
+  color: rgb(234 179 8 / var(--tw-text-opacity))
 }
 
 .text-black {
@@ -146,37 +146,7 @@
   color: rgb(0 0 0 / var(--tw-text-opacity))
 }
 
-.text-yellow-500 {
-  --tw-text-opacity: 1;
-  color: rgb(234 179 8 / var(--tw-text-opacity))
-}
-
 .text-lime-600 {
   --tw-text-opacity: 1;
   color: rgb(101 163 13 / var(--tw-text-opacity))
-}
-
-.text-orange-800 {
-  --tw-text-opacity: 1;
-  color: rgb(154 52 18 / var(--tw-text-opacity))
-}
-
-.text-orange-600 {
-  --tw-text-opacity: 1;
-  color: rgb(234 88 12 / var(--tw-text-opacity))
-}
-
-.text-orange-400 {
-  --tw-text-opacity: 1;
-  color: rgb(251 146 60 / var(--tw-text-opacity))
-}
-
-.text-orange-500 {
-  --tw-text-opacity: 1;
-  color: rgb(249 115 22 / var(--tw-text-opacity))
-}
-
-.text-yellow-600 {
-  --tw-text-opacity: 1;
-  color: rgb(202 138 4 / var(--tw-text-opacity))
 }

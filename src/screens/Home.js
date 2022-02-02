@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { View, Text, Pressable, TextInput } from 'react-native';
+import { View, Text, Pressable, TextInput, Alert } from 'react-native';
 import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome';
 import { faSync, faSearch, faWalking, faCar, faPen } from '@fortawesome/free-solid-svg-icons';
 import { useTailwind } from 'tailwind-rn';
