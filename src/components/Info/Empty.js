@@ -12,7 +12,7 @@ const InfoEmpty = (props) => {
             <FontAwesomeIcon style={tailwind('text-yellow-500 ml-1')} icon={ faExclamationTriangle } size={75} />
 
             <Text style={tailwind('text-black text-2xl font-bold mt-3')}>
-                Nothing Found!
+                No restaurant found!
             </Text>
         </View>
     );
